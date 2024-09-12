@@ -1,0 +1,9 @@
+Package: license.testing
+Type: Package
+Title: A Minimal R Package for License Testing
+Version: 1.0
+Authors@R:
+    person("Jumping", "Rivers", , "info@jumpingrivers.com", role = c("aut", "cre"))
+Description: A very basic R package that has some licenses for testing. 
+	Created for testing purposes.
+License: MIT
